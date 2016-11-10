@@ -4,7 +4,7 @@ Epson ESC/P2 Drivers for ProForma (ProWeSs system for Sinclair QL Home Computer)
                 Epson (ESC/P2) Drivers for ProWesS (and ProForma)
                 -------------------------------------------------
 
-These drivers are all copyright RWAP Software 1999-2000, released as freeware as part of 
+A former commercial package, these drivers are originally copyright RWAP Software 1999-2000, released as freeware as part of 
 the 30th Anniversary of RWAP Software.  
 
 They are based on the original drivers provided by PROGS with their ProWeSs package for the Sinclair QL.  
