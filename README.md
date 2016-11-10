@@ -90,18 +90,22 @@ A4 -    Paper Width     204.04mm
 Updates
 -------
 v1.00 First Release version
+
 v1.01 ColourSample_ldp added
+
 v1.02 Fast Monochrome mode added to the Mono drivers (this causes an error on the
       Epson Stylus 600 and possibly others, hence the separate driver)
       Improved Compression techniques used for 720dpi (Delta Row Compression)
       Generally increased speed.
+      
 v1.03 Corrected a bug in the 180 and 360 dpi colour printer drivers which meant
       that pages could get corrupted.
+      
 v1.04 Flush Buffers command added for later series Epson printers to ensure that
       end of page is printed.
       Memory allocation re-done to ensure that information is not corrupted
       between passes when using Delta Row compression.
       Machine code compression routines added to speed up transfer of data
+      
 v1.05 Updated the code for switching off microweave - for some reason PRINTS was
       adding an extra character
-
